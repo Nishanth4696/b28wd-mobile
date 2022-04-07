@@ -1,7 +1,5 @@
 import React from "react";
-// import NavigateNextIcon from '@mui/icons-material/NavigateNext';
-import Button from '@mui/material/Button';
-import TextField from '@mui/material/TextField';
+
 import { useHistory} from 'react-router-dom';
 import App from './App.js'
 import { useState} from 'react';
@@ -94,7 +92,7 @@ const styles = {display: box, fontWeight:'bold'};
  						<h1>Log In to Account</h1>
 						
 						
- 						<TextField
+ 						<input
 							type="email"
 							id="email"
 							name="email"							
@@ -107,7 +105,7 @@ const styles = {display: box, fontWeight:'bold'};
 						/>
             {renderErrorMessage("email")}
 						
-						<TextField
+						<input
 							type="password"
 							id="password"
 							name="password"							
@@ -123,9 +121,9 @@ const styles = {display: box, fontWeight:'bold'};
 						
 						
 						
-						<Button   variant="contained" type='submit' onClick={() => history.push('./home')} >
+						<button   variant="contained" type='submit' style={{borderRadius:'30px', background:'blue', color:'white', height:'40px', width:'100px'}}  onClick={() => history.push('./')} >
 							Sign In
-						</Button>
+						</button>
 
            
 
@@ -133,7 +131,7 @@ const styles = {display: box, fontWeight:'bold'};
 
             
 					</form>
-					<Button variant="contained" style={{marginLeft:'auto'}} type='button'  onClick={() =>setBox((box ==='none') ? 'block' : 'none')} >DemoLogin </Button>
+					<button variant="contained" style={{marginLeft:'auto', borderRadius:'30px',background:'green', color:'white'}} type='button'  onClick={() =>setBox((box ==='none') ? 'block' : 'none')} >DemoLogin </button>
         </div>
         <div className="login_right" style={styles}>
               <h3 styles={{marginLeft:'10px'}}>Demo Credientials</h3> 
@@ -141,17 +139,17 @@ const styles = {display: box, fontWeight:'bold'};
               
               <h2>User Login</h2>
               <div >
-              <Button   variant="contained" type='submit' onClick={UserDemo} >
+              <button   variant="contained" type='submit' class="btn btn-primary" onClick={UserDemo} >
 							User
-						</Button>
+						</button>
               </div>
              
               
               <h2>Admin Login</h2>
               <div >
-              <Button   variant="contained" type='submit' onClick={AdminDemo} >
+              <button   variant="contained" type='submit' class="btn btn-primary" onClick={AdminDemo} >
 							Admin
-						 </Button>
+						 </button>
               </div>
              
               </div>

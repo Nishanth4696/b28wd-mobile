@@ -62,6 +62,7 @@ border-color: var(--hoverYellow);
 
 export const NavWrapper = styled.nav`
 background: var(--navGreen);
+width: 100vw
 `
 
 export const PriceWrapper = styled.h4`

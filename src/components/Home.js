@@ -9,7 +9,10 @@ export default class Home extends Component {
                 <p className='subTitle'>
                     Find your perfect patner with the help of our professionals
                 </p>
+                    
+                
                 <div className='jumbotron mb-0 background'></div>
+                
             </div>
         )
     }
