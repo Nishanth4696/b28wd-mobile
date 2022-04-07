@@ -39,7 +39,7 @@ export default class Nokia extends Component {
                     <div className='card-footer d-flex justify-content-between'>
                         <p className='align-self-center mb-0 mr-4'>{title}</p>
                         <AccessoryPriceWrapper 
-                        className='price font-italic'>£ {price}
+                        className='price font-italic'>Rs. {price}
                         </AccessoryPriceWrapper>
                     </div>
                     

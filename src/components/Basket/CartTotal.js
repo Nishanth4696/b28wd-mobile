@@ -17,15 +17,15 @@ export default class CartTotal extends Component {
                         </ClearCartButton>
                         
                         <p className='col-12 mt-5 ml-lg-auto text-lg-right'>
-                        <span><strong>SUBTOTAL: </strong>   £ {cartSubTotal}</span>
+                        <span><strong>SUBTOTAL: </strong>   Rs. {cartSubTotal}</span>
                         </p>
 
                         <p className='col-12 mx-auto mt-3 ml-lg-auto text-lg-right'>
-                        <strong>TAX: </strong>   £ {cartTax}
+                        <strong>TAX: </strong>   Rs. {cartTax}
                         </p>
 
                         <p className='col-12 mx-auto mt-3 ml-lg-auto text-lg-right'>
-                        <strong>TOTAL: </strong>   £ {cartTotal}
+                        <strong>TOTAL: </strong>   Rs. {cartTotal}
                         </p>
 
                         <PaypalButton 

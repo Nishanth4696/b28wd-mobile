@@ -18,7 +18,7 @@ export default class CartItem extends Component {
                     </div>
              
                     <div className='col-10 mx-auto col-lg-2 mt-3'>
-                        <p><span className='d-lg-none'>Price: </span>£ {price}</p>
+                        <p><span className='d-lg-none'>Price: </span>Rs. {price}</p>
                     </div>
                     
                     <div className='col-10 mx-auto col-lg-2 mt-3'>
@@ -38,7 +38,7 @@ export default class CartItem extends Component {
                     </div>
                     
                     <div className='col-10 d-lg mx-auto col-lg-2 mt-3'>
-                        <strong className=''><span className='d-lg-none'>Item Total:</span> £ {total}</strong>
+                        <strong className=''><span className='d-lg-none'>Item Total:</span> Rs. {total}</strong>
                     </div>
                 </div>
             </CartFont>
