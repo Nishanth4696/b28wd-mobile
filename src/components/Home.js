@@ -7,7 +7,7 @@ export default class Home extends Component {
             <div>
                 <h1 className='title'>Mobile Store</h1>
                 <p className='subTitle'>
-                    Find your perfect patner with the help of our professionals
+                    Find your perfect partner with the help of our professionals
                 </p>
                     
                 
