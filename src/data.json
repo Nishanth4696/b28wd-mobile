@@ -1,0 +1,932 @@
+[
+    {
+      "id": 1,
+      "title": "Apple iPhone 13",
+      "img": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX522_.jpg",
+      "price": 73990,
+      "company": "Apple",
+      "info":
+        "The iPhone 13 and iPhone 13 mini iterate upon the successful iPhone 12 with new cameras and longer battery life. The notch has been reduced in size, and the rear camera module now sits at a diagonal. In addition, the A15 processor brings more speed and efficiency to every task",
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "type": "Apple"      
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 12",
+      "img": "https://photos5.appleinsider.com/gallery/product_pages/123-hero.jpg?=1649221984",
+      "price": 53999,
+      "company": "Apple",
+      "info":
+        "The iPhone 12 is a device that feels both familiar and new rolled into one. Its flat sides are reminiscent of the iPhone 4, yet it has a 6.1-inch display capable of showing Dolby Vision content. Also, the addition of 5G enables a better gaming and working experience when on the go.",
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "type": "Apple"      
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone 13 Pro Max",
+      "img": "https://www.deccanherald.com/sites/dh/files/gallery_images/aiphone13pm-fcvs-sv-sel-6.jpg",
+      "price": 130000,
+      "company": "Apple",
+      "info":
+        "The iPhone 13 Pro and iPhone 13 Pro Max were officially announced alongside the 9th generation iPad, 6th generation iPad Mini, Apple Watch Series 7, iPhone 13 and iPhone 13 Mini by a virtual press event filmed and recorded at Apple Park in Cupertino, California on September 14, 2021. Pre-orders began on September 17 at 5:00 AM PST. Pricing starts at US$999 for the iPhone 13 Pro and US$1099 for the iPhone 13 Pro Max, same as their respective previous generations.",
+      "inCart": false,
+      "count": 0,
+      "total": 0,
+      "type": "Apple"      
+    },
+     {
+  "id": 4,
+  "title": "Apple iPhone 11",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRyfjibbxkG1buhk9Va0CrduSWmcTVi0dsQ&usqp=CAU",
+  "price": 47300,
+  "company": "Apple",
+  "info":
+    "The iPhone 11 is available in six colors: Purple, Yellow, Green, Black, White, and Product (Red). A notch is at the front for the TrueDepth camera system and speaker, similar to its predecessor, the iPhone XR. A bump in the back is for the cameras and the flash that is the same size as the iPhone 11 Pro, although the iPhone 11 only has two cameras compared to the Pro's three cameras",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Apple"      
+},
+ {
+  "id": 5,
+  "title": "Apple iPhone SE 3 2022",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Hvou8UFMRRoSEjZOLW3v__2GP1x0lENNvw&usqp=CAU",
+  "price": 43900,
+  "company": "Apple",
+  "info":
+    "The third-generation iPhone SE (also known as the iPhone SE 3 or the iPhone SE 2022) is a smartphone designed and developed by Apple Inc. It is part of the 15th generation of the iPhone, alongside the iPhone 13/13 mini and iPhone 13 Pro/13 Pro Max models. Apple announced the third-generation iPhone SE on March 8, 2022, which succeeded the second-generation iPhone SE. Pre-orders began on March 11, 2022, and the phone was released afterwards on March 18, 2022.[6][7][8] It was released with a starting price of US$429, a $30 increase over its predecessor.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Apple"      
+},
+ {
+  "id": 6,
+  "title": "Apple iPhone 12 Mini",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVsyS9Oy2KHXuHaoe6NCXL9HVsb_8gl5H9vQ&usqp=CAU",
+  "price": 49999,
+  "company": "Apple",
+  "info":
+    "The iPhone 12 and iPhone 12 Mini (stylized and marketed as iPhone 12 mini) are a range of smartphones designed, developed, and marketed by Apple Inc. They are the fourteenth-generation, 'affordable flagship' iPhones, succeeding the iPhone 11.[18] They were unveiled at a virtually held Apple Special Event at Apple Park in Cupertino, California on October 13, 2020, alongside the 'premium flagship' iPhone 12 Pro and iPhone 12 Pro Max. Pre-orders for the iPhone 12 started on October 16, 2020, and the phone became available in most countries on October 23, 2020. Pre-orders for the iPhone 12 Mini began on November 6, 2020, and the phone became available on November 13, 2020",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Apple"      
+},
+ {
+  "id": 7,
+  "title": "Apple iPhone 7s",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJr_jeAhmMJiaTAPp8xPNDGiGmNW-_2uWSQ&usqp=CAU",
+  "price": 52990,
+  "company": "Apple",
+  "info":
+    "The iPhone 7 and iPhone 7 Plus are smartphones designed, developed, and marketed by Apple Inc. They are the tenth generation of the iPhone. They were announced on September 7, 2016, at the Bill Graham Civic Auditorium in San Francisco by Apple CEO Tim Cook, and were released on September 16, 2016, succeeding the iPhone 6, iPhone 6 Plus, iPhone 6S and iPhone 6S Plus as the flagship devices in the iPhone series. Apple also released the iPhone 7 and iPhone 7 Plus in numerous countries worldwide throughout September and October 2016. They were succeeded as flagship devices by the iPhone 8 and iPhone 8 Plus on September 22, 2017",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Apple"      
+},
+ {
+  "id": 8,
+  "title": "Apple iPhone XR 2019",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAEafEcH8BJX4z8RaB2cGUtBO-HU4s7BhPRg&usqp=CAU",
+  "price": 71999,
+  "company": "Apple",
+  "info":
+    "The iPhone XR (stylized and marketed as iPhone Xʀ; Roman numeral 'X' pronounced 'ten') is a smartphone designed and manufactured by Apple Inc. It is part of the twelfth generation of the iPhone. Pre-orders began on October 19, 2018, with an official release on October 26, 2018",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Apple"      
+},
+
+{
+  "id": 9,
+  "title": "Asus ROG Phone 5s Pro 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTiG7oYXycdTsoh0IMWqWncLF7IilWWeqxxQ&usqp=CAU",
+  "price": 79999,
+  "company": "Asus",
+  "info":
+    "ROG Phone 5 is a line of Android gaming smartphones made by Asus as the fifth generation of ROG smartphone series following the third generation ROG Phone 3 (and skipping the fourth generation, as the number four is considered unlucky in many East Asian cultures). It was launched on 10 March 2021",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 10,
+  "title": "Asus 8Z",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoMM-VJ9E3RbmoF8NnV4OoYlrRZdPf7bvQnw&usqp=CAU",
+  "price": 42999,
+  "company": "Asus",
+  "info":
+    "Asus ZenFone is a series of Android smartphones designed, marketed and produced by Asus. The first-generation ZenFones were announced at the 2014 Consumer Electronic Show in Las Vegas, Nevada. In addition to its Intel Atom, Qualcomm Snapdragon, and MediaTek processors and the Android operating system, some ZenFone also features the Zen UI, a user interface from Asus.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 11,
+  "title": "Asus 9Z 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeSZci7n5h0hXZZQzwvIwacWp-UknI5rgxWg&usqp=CAU",
+  "price": 44999,
+  "company": "Asus",
+  "info":
+    "Asus Zenfone 5 is a line of Android smartphones made by Asus. It is part of the Asus Zenfone series. The ZenFone 5 was unveiled on 27 February 2018 at the Mobile World Congress and went on sale on 6 August 2018, while the higher-end ZenFone 5Z was unveiled on 16 May 2018 and went on retail sale on 6 August 2018.[1][2][3] The smartphone line also includes the lower-end ZenFone 5 Lite",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 12,
+  "title": "Asus ROG Phone 6",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOYr-Oo3xidbXEHIIKDH4IojLxWArEk5gOUg&usqp=CAU",
+  "price": 54999,
+  "company": "Asus",
+  "info":
+    "The ROG Phone is an Android gaming smartphone made by Asus and the first generation of the ROG smartphone series. It was announced on June 8, 2018 at the Computex computer expo,[1] being the first Asus smartphone to be targeted mainly to gamers. It competes with the Razer Phone, Xiaomi Black Shark, and ZTE Nubia Red Magic.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 13,
+  "title": "Asus ZenFone 8 Flip",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rKu2kSOynABeGJ42ujXVTOstsYQMBWX-vA&usqp=CAU",
+  "price": 70990,
+  "company": "Asus",
+  "info":
+    "The Asus ZenFone 8 is an Android-based phone designed, developed and manufactured by Asus as part of its Asus ZenFone series. It was announced on 12 May 2021.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 14,
+  "title": "Asus ROG Phone 3 (12GB RAM + 128GB)",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmy5t-Ui0tbcAKAHPtBl7QovuubhUum8zV9w&usqp=CAU",
+  "price": 49999,
+  "company": "Asus",
+  "info":
+    "The ROG Phone 3 is an Android gaming smartphone made by Asus as the third generation of ROG smartphone series following the second generation ROG Phone II, announced on 22 July 2020",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 15,
+  "title": "Asus ZenFone Ares",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCMDz-xvSEOkoY9SUfNBbB4dRRUJz9owyWDQ&usqp=CAU",
+  "price": 21999,
+  "company": "Asus",
+  "info":
+    "Asus is the world's 5th-largest PC vendor by unit sales as of January 2021.[5] Asus appears in BusinessWeek's 'InfoTech 100' and 'Asia's Top 10 IT Companies' rankings, and it ranked first in the IT Hardware category of the 2008 Taiwan Top 10 Global Brands survey with a total brand value of $1.3 billion",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+
+{
+  "id": 16,
+  "title": "Asus Pegasus 4S",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSvOcQXwZ4U3vcdCx02HwlFPKx-F9DJHG2Q&usqp=CAU",
+  "price": 19990,
+  "company": "Asus",
+  "info":
+    "Asus also launched many Android-based smartphones, predominantly with Intel rather than ARM processors and often with two sim slots. Asus is currently very influential in big mobile markets like India, China, and other Asian countries. It is known as the ZenFone series. Prior to the ZenFone line, Asus has released feature phones such as the Asus v70 and smartphones running on Windows Mobile during the mid-2000s.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Asus"      
+},
+{
+  "id": 17,
+  "title": "Huawei P30 Pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VbA3u0zRNgFfrBL7YVpREw4VSXOMkpjC3w&usqp=CAU",
+  "price": 63990,
+  "company": "Huawei",
+  "info":
+    "Huawei P30 is a line of Android-based smartphones manufactured by Huawei. Unveiled on 26 March 2019, they succeed the Huawei P20 in the company's P series line",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 18,
+  "title": "Huawei P40 Pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx2vMPFOucO-xCZnLAz8kofwSyvLumQujTHw&usqp=CAU",
+  "price": 71990,
+  "company": "Huawei",
+  "info":
+    "Huawei P40 is a line of high-end Android-based smartphones manufactured by Huawei.[1][2] Unveiled on 26 March 2020, they succeed the Huawei P30 in the company's P series line",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 19,
+  "title": "Huawei Y9 Prime 2019",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxcfJhdyxVhcUVyWSoWo7sPSPAeHBCQNgRdw&usqp=CAU",
+  "price": 15990,
+  "company": "Huawei",
+  "info":
+    "The Y9 Prime has three cameras on the back which consists of a primary 16MP camera with an f/1.8 aperture, an 8MP ultrawide lens and a 2MP depth sensor. Contact us. We have been promoting the newest Huawei Y9 Prime 2019 for quite some time now and for a good reason. It is still very early to form judgment when it comes to the performance of the Y9 Prime and we’ll have to test it further. 15,000 - 20,000. Huawei Y9 Prime 2019 Smartphone (4GB/128GB) Original Huawei Malaysia Set, [ORIGINAL] Huawei Y9 Prime 2019 128GB | 4GB RAM (Official 1 Year Huawei Malaysia Warranty), Huawei Y9 Prime 2019 Malaysia release date, HONOR MagicBook 14 price tag has dropped to RM2299, Sony Xperia 1 II Malaysia pre-order is now available, coming with WF-1000XM3 for free, Huawei Mate 40 Pro+ render design and retail box leaked online, 12GB + 256GB variant confirmed, Xiaomi's latest 80W wireless charging technology unveiled before official launch, These iPhones are still on sale from the price of RM1999 in Malaysia. Huawei Y9 Prime (2019) Android smartphone. The latest Huawei Y9 Prime (2019) price in Malaysia market starts from RM675",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 20,
+  "title": "Huawei P9",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3PAZu3HLxfeUSAbSsMoP3beorU_7Jv7Y7w&usqp=CAU",
+  "price": 39999,
+  "company": "Huawei",
+  "info":
+    "The Huawei P9 is a high-end Android smartphone produced by Huawei, released in 2016. It is the successor to the Huawei P8 and maintains almost the same design but has a dual camera setup in the back co-engineered with Leica along with a fingerprint sensor. The Huawei P9 has a 5.2-inch Full HD IPS-NEO LCD display and runs on Android 6.0 Marshmallow OS.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 21,
+  "title": "Huawei Nova 3i",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFR80yumwHOx0VkBmC2eZFCzT1AvGniGttPA&usqp=CAU",
+  "price": 19890,
+  "company": "Huawei",
+  "info":
+    "The Huawei Nova 3i is an Android smartphone manufactured by Huawei as part of its mid-range Nova series. The phone was released on 21 July 2018",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 22,
+  "title": "Huawei Ascend Y511",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPAL8XkNaRramTET0XeqhPLfxrnwlVcM2u-A&usqp=CAU",
+  "price": 9999,
+  "company": "Huawei",
+  "info":
+    "Huawei Ascend is the first phone in the Huawei Ascend series. It ran Android OS 2.1 by default. It has been released in the United States for Cricket Wireless and MetroPCS unsubsidized. As of the summer of 2012, the model is also available on the market in Europe",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 23,
+  "title": "Huawei Honor 3C",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7jtXuvuvusdMohokwLeHj8cZd4svyrELEQ&usqp=CAU",
+  "price": 15999,
+  "company": "Huawei",
+  "info":
+    "The Honor 3C is a mid-end Android smartphone produced by Huawei. It was released in April 2014. It is the first mid end phone of Huawei's subrand Honor.Honor 3C has a 5.0-inch liquid crystal display display (so as 3C play) and runs on Android 4.4 KitKat OS after the latest update",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 24,
+  "title": "Huawei Mate 30 Pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJDQ_niVCkOvgSuTq5_-lmKB71zAzKvPogQ&usqp=CAU",
+  "price": 86590,
+  "company": "Huawei",
+  "info":
+    "Huawei Mate 30 is a line of Android-based phablets manufactured by Huawei as part of its Huawei Mate series, and the successor to the Mate 20. The Mate 30 comprises the Mate 30/5G, Mate 30 Pro/5G, and Mate 30 RS Porsche Design, which were unveiled on 19 September 2019 in Munich, Germany.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Huawei"      
+},
+{
+  "id": 25,
+  "title": "Lenovo Legion Y90",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNj8E6EOPIlEr1Lk1i-rBAo2wHRDfW5Y3k1A&usqp=CAU",
+  "price": 46990,
+  "company": "Lenova",
+  "info":
+    "Lenovo Legion is a series of laptops and desktop computers from Lenovo targeting gaming performance. The first Legion brand laptops was revealed at CES 2017, the Legion Y520 and the Legion Y720.[1] On June 6, 2017, a high-performance model, the Legion Y920, equipped with Intel's seventh-generation quad-core i7-7820HK and Nvidia GTX 1070 discrete graphics, was launched.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 26,
+  "title": "Lenovo K14 Note",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjw4kqYUgi5KnmdbKVEhfoV0YYLImeBPLJA&usqp=CAU",
+  "price": 11490,
+  "company": "Lenova",
+  "info":
+    "Lenovo Vibe K4 Note is a midrange Android smartphone launched by Lenovo Group Limited in January 2016. The phone features a 5.5 inch FHD display powered by MediaTek MT6753 SoC processor. It comes with two storage variants of 16 and 32 GB with 2 GB of RAM, for A7010 model and 3 GB of RAM for A7010a48 model. It has a battery capacity rated at 3300mAh. The device supports Theater max technology with a VR headset. Upon its release in the market, it received positive feedbacks and reviews from all parts of the world unlike its bigger brother, Lenovo Vibe X3. Lenovo also launched its successor, K5 Note immediately after K4 Note's launch",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 27,
+  "title": "Lenovo Z6 Pro (12GB RAM + 512GB)",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSOewaIZ7uO_S9TOW8WfUEep_Z3xIQ1cInw&usqp=CAU",
+  "price": 52990,
+  "company": "Lenova",
+  "info":
+    "Lenovo smartphones are marketed as the 'LePhone' in Mainland China and the 'IdeaPhone' overseas. Motorola Mobility, ZUK Mobile and Medion, divisions of Lenovo, sell smartphones under their own brands. As of September 2015, Lenovo is in the process of rebranding most of its phones using the Motorola brand name.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 28,
+  "title": "Lenovo K14",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa7CnDo6eJ_SkEVwe3PS16FNYsMnBmYnzRvQ&usqp=CAU",
+  "price": 9499,
+  "company": "Lenova",
+  "info":
+    "Lenovo K14 Plus has been launched in Russia. The smartphone is a rebranded version of Moto E40 as they both get the same SoC, display, and triple rear camera setup to name a few similarities. Lenovo K14 Plus sports a 6.5-inch HD+ IPS display with 90Hz refresh rate. Under the hood, the Lenovo smartphone features ",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 29,
+  "title": "Lenovo A526",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPzKLCALq0E1gR3zncD6FPyaUrgfm83ShR2w&usqp=CAU",
+  "price": 7999,
+  "company": "Lenova",
+  "info":
+    "Lenovo A526 is a dual-SIM, quad-core MediaTek Cortex A7 based smartphone launched on 2 April 2014.[1] It released on April 5, 2014",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 30,
+  "title": "Lenovo K6 Power",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2YIMAE5KZ9HDo-ZSTc26lfFwWC0i74AQlA&usqp=CAU",
+  "price": 8999,
+  "company": "Lenova",
+  "info":
+    "Lenovo K6 Power[1][2] is a midrange Android smartphone launched by Lenovo Group Limited on September 2016.[3] The device supports TheaterMax technology with a VR headset. It is the successor of Lenovo K5 Plus",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 31,
+  "title": "Lenovo 6000",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcv9k0KmtQCDwdr_xRVURU_L8ZFYKV9rNHA&usqp=CAU",
+  "price": 8999,
+  "company": "Lenova",
+  "info":
+    "Lenovo A6000 is an Android smartphone manufactured by Lenovo.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 32,
+  "title": "Lenovo Vibe P1 Lite",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1foPixXGd5koavmkpqOx_BM9-XpgnPhsNqg&usqp=CAU",
+  "price": 10999,
+  "company": "Lenova",
+  "info":
+    "Lenovo Vibe P1 (stylized as Lenovo VIBE P1) is an Android smartphone manufactured by Lenovo. The Vibe P1 was announced on 2 September 2015 at IFA 2015.[4] It was launched in October 2015 for US$249. It is available in Silver, Platinum and Graphite Grey and Gold (only available in PRC) colour variants",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Lenova"      
+},
+{
+  "id": 33,
+  "title": "Nokia C01 Plus (2GB RAM + 32GB)",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Kn6Kuj8Q8ByM64EGMBi2dce4lI32gmFUAA&usqp=CAU",
+  "price": 6780,
+  "company": "Nokia",
+  "info":
+    "The Nokia C1 is an Android Go budget smartphone with 3G network speed, announced on December 11, 2019 by Nokia brand licensee HMD Global",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Nokia"      
+},
+{
+  "id": 34,
+  "title": "Nokia X60 Pro 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2djY1gdZF4ccSilEwU0qOUhAhxDJmr-X7w&usqp=CAU",
+  "price": 49990,
+  "company": "Nokia",
+  "info":
+    "The Nokia X was a mid-tier smartphone announced as part of the Nokia X family in February 2014, running on the Nokia X platform. The device shipped on the same day as the unveiling, with Nokia targeting the product for emerging markets, and was sold and maintained by Microsoft Mobile. On 17 July 2014, Microsoft announced that it would discontinue the line.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Nokia"      
+},
+{
+  "id": 35,
+  "title": "Nokia 8.3 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcittMxViDJxZc4AaR-bnW7CMeH6N9KAe6hA&usqp=CAU",
+  "price": 29999,
+  "company": "Nokia",
+  "info":
+    "The Nokia 8.3 5G[1] is a Nokia-branded smartphone released by HMD Global Oy, running Android One.[1][2] It is HMD's first 5G phone,[3][4] and was announced on 19 March 2020[2] alongside the Nokia 5.3, Nokia 1.3, and Nokia 5310 (2020).[3][5][6] The Nokia 8.3 5G is claimed to be the first smartphone which is compatible with all existing 5G bands.[3][4] It was released in September 2020.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Nokia"      
+},
+{
+  "id": 36,
+  "title": "Nokia X100",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4RzhTG6i2-8oY38O0a8e6yIbLT8HrLmLdQ&usqp=CAU",
+  "price": 17990,
+  "company": "Nokia",
+  "info":
+    "The Nokia X was a mid-tier smartphone announced as part of the Nokia X family in February 2014, running on the Nokia X platform. The device shipped on the same day as the unveiling, with Nokia targeting the product for emerging markets, and was sold and maintained by Microsoft Mobile. On 17 July 2014, Microsoft announced that it would discontinue the line",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Nokia"      
+},
+{
+  "id": 37,
+  "title": "Nokia XR20",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJtqr04snsXJ14tvXG01t2DP5u5FSDvVAKJg&usqp=CAU",
+  "price": 46998,
+  "company": "Nokia",
+  "info":
+    "The Nokia XR20 is a Nokia-branded smartphone that has been manufactured by HMD Global",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Nokia"      
+},
+{
+  "id": 38,
+  "title": "Nokia 5.3 (6GB RAM + 64GB)",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSlUCFU4KOQ6qchoPMBJViz97V_QRICntwCQ&usqp=CAU",
+  "price": 16999,
+  "company": "Nokia",
+  "info":
+    "The Nokia 5.3 is a Nokia-branded mid-range smartphone by HMD Global, running Android One. It was announced on March 19, 2020, alongside the Nokia 8.3 5G, Nokia 1.3 and Nokia 5310 (2020)",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Nokia"      
+},
+{
+  "id": 39,
+  "title": "OPPO Reno7 Z 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtt8b6hLejPfe5azS6Jq0PXkhXqhY2foR3Aw&usqp=CAU",
+  "price": 17999,
+  "company": "Oppo",
+  "info":
+    "Oppo Reno is a line of camera-focused Android smartphones manufactured by Oppo, with Oppo Reno, Reno 10x Zoom, and Reno 5G as 'flagships', and a midrange model, the Reno Z.[4] The Reno was launched on April 24, 2019.[5] The Oppo Reno lineup was followed by the Reno2, which was launched in India on August 28, 2019,[6] and the Reno Ace which was released in October 2019",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 40,
+  "title": "OPPO F21 Pro Plus 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDrtLGDy6olTfmJaqkLoYKwk7nziYYg0ymQ&usqp=CAU",
+  "price": 29990,
+  "company": "Oppo",
+  "info":
+    "OPPO F21 Pro comprises a robust set of specifications that promises hardcore performance throughout. You can store in a variety of apps and games, besides planning out a full day of shooting activity with the same. Also, an 8GB RAM promises lag-free multitasking. ",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 41,
+  "title": "OPPO F9",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMNYchmEslv4nXcHxoDayTGtyWXZqbmPm1xQ&usqp=CAU",
+  "price": 25999,
+  "company": "Oppo",
+  "info":
+    "The OPPO F9 (F9 Pro in India) is the 2018 smartphone from the OPPO F series launched in August 2018.[1] The OPPO F9 features a waterdrop notch design, and is equipped with VOOC fast charging technology.[2] It has a screen to body ratio of 90.8%",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 42,
+  "title": "Oppo F17 Pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvMeyubc-35j1rY-0yW1MMyr5sPrscL0d7g&usqp=CAU",
+  "price": 26999,
+  "company": "Oppo",
+  "info":
+    "The Oppo F17 Pro is a phone developed by Oppo. It is the latest phone in the Oppo F Series, a range of devices marketed towards consumers looking a mid-range phone.[4] The phone was released in India on September 7, 2020,[5] and later went on the market in other countries by a different name, the Oppo A93.[6] The phone has a single configuration with a price of ₹22990, but there is also a special 'Diwali Edition' version of the phone, which features a Matte Gold version of the phone, which is boxed along with a 10000mAh power bank and a 'Diwali Exclusive back case cover.' This special edition sells for ₹23990",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 43,
+  "title": "Oppo F21 Pro 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-i8rl_O1bUpn3AcVC_8nGoLleiwpAEDaHMg&usqp=CAU",
+  "price": 25990,
+  "company": "Oppo",
+  "info":
+    "Oppo F21 Pro 5G and F21 Pro 4G are all set to launch in India on April 12, the company revealed last week. Now, the prices of the smartphones alongside their specifications have been leaked. The F21 Pro series of smartphones is tipped to offer 64-megapixel triple rear camera setups. In related news, the Oppo Reno 7 Lite 5G is said to be launched soon in European markets, and its launch price as well as specifications have been tipped. The Reno 7 Lite 5G could be powered by a Snapdragon 695 SoC.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 44,
+  "title": "Oppo Reno6",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-qXZd3JQs7_wUEPb5BZos0lzeSokEkqyNWQ&usqp=CAU",
+  "price": 37990,
+  "company": "Oppo",
+  "info":
+    "Oppo Reno6 is a line of Android smartphones manufactured by Oppo as the successor to the Oppo Reno series. Launched on 27 July 2021 in India, it comprises the Oppo Reno6, Reno6 5G, Reno6 Pro 5G, Reno6 Pro+ 5G and Reno6 Z",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 45,
+  "title": "Oppo F19",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0Z1tM9Fu-AWfZC1I9KQIQ7QUNKu9I7MAlA&usqp=CAU",
+  "price": 19678,
+  "company": "Oppo",
+  "info":
+    "Oppo F19 mobile was launched on 6th April 2021. The phone comes with a 6.43-inch touchscreen display offering a resolution of 1080x2400 pixels and an aspect ratio of 20:9. Oppo F19 is powered by an octa-core Qualcomm Snapdragon 662 processor. It comes with 6GB of RAM. The Oppo F19 runs Android 11 and is powered by a 5000mAh battery. The Oppo F19 supports proprietary fast charging.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 46,
+  "title": "OPPO A76",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZgNte8BUNWvD3O2fSP6hdYzz-DQsTZQgFw&usqp=CAU",
+  "price": 17499,
+  "company": "Oppo",
+  "info":
+    "Oppo A96 and Oppo A76 will launch in India sometime soon, a fresh report claims. The two 4G-enabled smartphones are said to reach Indian shores in the coming days. The report also shares some of the key specifications of Oppo A96 and Oppo A76 that are said to be offered to Indian customers. Oppo A96 is said to sport a 6.59-inch full-HD+ AMOLED display with 90Hz refresh rate. Oppo A76 was launched in Malaysia last month and sports a 6.56-inch HD+ display.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Oppo"      
+},
+{
+  "id": 47,
+  "title": "Realme 3",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lUNQN9fM2P3DuvhsjwbUr9zDjmNqygVDMA&usqp=CAU",
+  "price": 8999,
+  "company": "Realme",
+  "info":
+    "The realme 3 series is a smartphone from the Indian-based Chinese company realme,[1] in March 2019. The realme 3 pro was released later that year in May. After the release of Realme 3, finally Realme 3i was released in the middle of that year in July.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Realme"      
+},
+{
+  "id": 48,
+  "title": "Realme Narzo 30 Pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxPEzpu7bhBlPL-HjRjlXh-TBADC6LLbS5Dg&usqp=CAU",
+  "price": 10999,
+  "company": "Realme",
+  "info":
+    "The Realme Narzo 30 Pro 5G is an Android smartphone developed by Realme and was launched on 24 February 2021. It is the second smartphone among the Narzo 30 series unveiled by Realme. Narzo 30 Pro is available in two colours: Blade Silver and Sword Black",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Realme"      
+},
+{
+  "id": 49,
+  "title": "Realme C3",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZLu7Hsk-q0Vr0MwnIWhGvOwB4xfRE32jWA&usqp=CAU",
+  "price": 8999,
+  "company": "Realme",
+  "info":
+    "The realme C3 and realme C3i are slate-format Android smartphones developed by Realme and released in February 2020 in India and March 2020 in the Philippines. Priced just under $120 and running Android 11, Realme positions it as a budget gaming handset capable of playing PlayerUnknown's Battlegrounds[3] and Mobile Legends: Bang Bang, and is the first device to ship with the MediaTek Helio G70 system-on-chip",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Realme"      
+},
+{
+  "id": 50,
+  "title": "realme 7",
+  "img": "",
+  "price": 14999,
+  "company": "Realme",
+  "info":
+    "Realme 7 and Realme 7 Pro are dual-SIM smartphones from the Chinese company Realme. They were launched on 10 September 2020. Realme 7 became 5th most selling budget smartphone of all time till now. Both of the devices have Gorilla Glass 3 shatter resistant glass",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Realme"      
+},
+{
+  "id": 51,
+  "title": "Realme X2 Pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFww0ws--TIjRa9jx7rAyO7Sg6vPAnGd1ivA&usqp=CAU",
+  "price": 13999,
+  "company": "Realme",
+  "info":
+    "The Realme X2 Pro is a smartphone from the Chinese smartphone manufacturer Realme, released in October 2019.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Realme"      
+},
+{
+  "id": 52,
+  "title": "Realme 5 pro",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKko_biogqOmqHC5ofbb8NRgnMbdh-DUaJeA&usqp=CAU",
+  "price": 12999,
+  "company": "Realme",
+  "info":
+    "Realme 5 Pro is a smartphone from the Chinese company realme.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Realme"      
+},
+
+{
+  "id": 53,
+  "title": "Samsung Galaxy M33 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlG5zSp1soh9Oqp_jgXniNr1NUsimoLVlqig&usqp=CAU",
+  "price": 15999,
+  "company": "Samsung",
+  "info":
+    "The Galaxy M33 5G is a smartphone with a slate -typeform factor, whose dimensions are 165.4 × 76.9 × 9.4 mm and weighs 215 grams (in Europe: dimensions 165.4 × 76.9 × 8, 4 mm, weight 198 g)",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Samsung"      
+},
+{
+  "id": 54,
+  "title": "Samsung Galaxy F23 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4UTfAri1z45DQtRWJjuRI4hZOWD0t0-Pj1Q&usqp=CAU",
+  "price": 15999,
+  "company": "Samsung",
+  "info":
+    "The Samsung Galaxy F series is a line of midrange smartphones manufactured by Samsung Electronics as part of their Galaxy line.[1] The first model released in the series was the Samsung Galaxy F41, which was launched on October 8, 2020.[2][3] The line is sold exclusively in India, Bangladesh and China. In India, the series consists of rebranded Galaxy M models sold exclusively for the Indian market through Flipkart.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Samsung"      
+},
+{
+  "id": 55,
+  "title": "Samsung Galaxy A53 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1yvz5Vc7LljW6TBLfD_qcf4yNod5w2Meezw&usqp=CAU",
+  "price": 34599,
+  "company": "Samsung",
+  "info":
+    "The Samsung Galaxy A53 5G is a mid-range Android-based smartphone developed and manufactured by Samsung Electronics as a part of its Galaxy A series. The phone was announced on 17 March 2022 at Samsung Galaxy Unpacked event alongside the Galaxy A33 5G and Galaxy A73 5G.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Samsung"      
+},
+{
+  "id": 56,
+  "title": "Samsung Galaxy A13",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZ_jTaewTnASSpxmtHedwFgWJkCnXO8v9HQ&usqp=CAU",
+  "price": 14500,
+  "company": "Samsung",
+  "info":
+    "The Samsung Galaxy A13 is an Android smartphone manufactured by Samsung Electronics.[3][4] The phone has a triple-camera setup with a 50 MP main camera, a 6.5 in (170 mm) HD+ Infinity-V display, and a 5000 mAh Li-Po battery. It ships with Android 11. On release, it was the cheapest smartphone with 5G offered by Samsung.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Samsung"      
+},
+{
+  "id": 57,
+  "title": "Samsung Galaxy S22 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVd4ea020Dc859pexw6hPwK1HxMLW4uvjCSQ&usqp=CAU",
+  "price": 72999,
+  "company": "Samsung",
+  "info":
+    "The Samsung Galaxy S22 is a series of Android-based smartphones designed, developed, manufactured, and marketed by Samsung Electronics as part of its Galaxy S series. Unveiled at Samsung's Galaxy Unpacked event on 9 February 2022, the series serves as the successor to the Galaxy S21 series and Galaxy Note 20 series.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Samsung"      
+},
+{
+  "id": 58,
+  "title": "Samsung Galaxy A01",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYDPLQrfQJWaKzw4gIGOSx0d8S3IwIx9f9GA&usqp=CAU",
+  "price": 12999,
+  "company": "Samsung",
+  "info":
+    "The Samsung Galaxy A01 is a budget Android smartphone manufactured by Samsung Electronics as part of its A series. The phone was announced in December 2019 and released in January 2020. The phone features a 5.7 inch 720p touchscreen display, a dual camera setup, and comes with One UI 2 over Android 10.[2][3] A similar device, Galaxy M01, was first released in June 2020, which shares some of the features with the Galaxy A01",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Samsung"      
+},
+{
+  "id": 59,
+  "title": "Sony Xperia Ace 2",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRulSBc7N8kZoSwiJh4qCYzGPUOOZjZP9jM2A&usqp=CAU",
+  "price": 14990,
+  "company": "Sony",
+  "info":
+    "Xperia Ace II is an entry model equipped with Helio P35 in SoC [1] . The predecessor Xperia Ace was equipped with the Snapdragon 630 [2] [3] and was considered a mid-range model. The Xperia Ace II is currently available only at DoCoMo. The main camera is equipped with a wide-angle (25 mm) of about 13 million pixels and a depth positioning sensor, and the in-camera is equipped with a camera of about 8 million pixels. It is equipped with a 4500mAh battery [1] and is said to be the world's smallest smartphone equipped with a battery of the same capacity ",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Sony"      
+},
+{
+  "id": 60,
+  "title": "Sony Xperia Pro-I",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyM0zlcW5y-8_8b1FAbwqd_a12_HEFQAfGA&usqp=CAU",
+  "price": 130000,
+  "company": "Sony",
+  "info":
+    "The Sony Xperia PRO-I is an Android smartphone manufactured by Sony. Designed to be the new professional flagship of Sony's Xperia series, the phone was announced on October 26, 2021",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Sony"      
+},
+{
+  "id": 61,
+  "title": "Sony Xperia 10 II",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlWMqr8mhgSpeKNDgyGf_rAKoc8A6pxp4jfw&usqp=CAU",
+  "price": 27999,
+  "company": "Sony",
+  "info":
+    "The Sony Xperia 10 and Sony Xperia 10 Plus are Android smartphones marketed and manufactured by Sony. Part of Sony's midrange Xperia series, they were unveiled at the annual Mobile World Congress event on February 25, 2019 alongside the Xperia L3 and Xperia 1",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Sony"      
+},
+{
+  "id": 62,
+  "title": "Sony Xperia 5 IV 5G",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnymADJVQt_OZoPo-B8KCdv4wkNP-oWc4sPg&usqp=CAU",
+  "price": 79999,
+  "company": "Sony",
+  "info":
+    "The Sony Xperia 5 is an Android smartphone marketed and manufactured by Sony.[3] Part of Sony's flagship Xperia series, it was unveiled at the annual IFA event on September 5, 2019.[4] The device is a cheaper, more compact variant of the Xperia",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Sony"      
+},
+{
+  "id": 63,
+  "title": "Sony Xperia X Compact",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBEWHhbI-AHlu6xo7-7VcR2bnxwiXQZWKvg&usqp=CAU",
+  "price": 38999,
+  "company": "Sony",
+  "info":
+    "The Sony Xperia X Compact is an Android smartphone manufactured and marketed by Sony. Part of the Xperia X series, the phone was announced to the public along with the Xperia XZ at a press conferences which was held at IFA 2016 on September 1, 2016.[1] In Japan, the phones model number is SO-02J, which is exclusive to NTT Docomo, and is available in a water and dust resistant variant unlike the global version.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Sony"      
+},
+{
+  "id": 64,
+  "title": "Sony Xperia XZ3",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4GsqNLFsZqT64fq7-4PPNroI4t80PqK9HQ&usqp=CAU",
+  "price": 75990,
+  "company": "Sony",
+  "info":
+    "The Sony Xperia XZ3 is an Android smartphone manufactured and marketed by Sony. Part of the Xperia X series, the device was announced to the public at a press conference held at the annual 2018 IFA Berlin event on August 30, 2018.[2] It is the first Xperia device with an OLED display and it features the same Dynamic Vibration System as seen on the Xperia XZ2.[3] It was the last both Xperia X series and XZ series phone, before Sony moved into a new naming scheme for their Xperia lineup",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Sony"      
+},
+{
+  "id": 65,
+  "title": "Vivo V9",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo4t68G1CBrtvSYdnpwvqItDOkRjU7_1xapw&usqp=CAU",
+  "price": 21999,
+  "company": "Vivo",
+  "info":
+    "Vivo V9 is an Android smartphone developed by Vivo Communication Technology Co. It was initially released in April 2018.The phone has 64 GB of internal storage and 4 GB of RAM. A microSD card can be inserted for up to an additional 256 GB. The phone has an Octa-core 2.2 GHz Cortex-A53 CPU and an Adreno 506 GPU",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Vivo"      
+},
+{
+  "id": 66,
+  "title": "Vivo V1",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq_wfwm7claRS48UFGby1Qdnr0hVKtDnn1tA&usqp=CAU",
+  "price": 17687,
+  "company": "Vivo",
+  "info":
+    "The Vivo V1 is the first phone in Vivo's V Series of phones. It launched in July 2015. The phone launched at a price of ₹17,980 ($251.72)",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Vivo"      
+},
+{
+  "id": 67,
+  "title": "Vivo V19",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA5N3A653TvpY0Thr_9j8jO0gvshx1gHfAJA&usqp=CAU",
+  "price": 25999,
+  "company": "Vivo",
+  "info":
+    "The Vivo V19 is an Android-based smartphone manufactured by Vivo Communication Technology Co. The phone was announced and released in April 2020. The phone is highlighted by a quad-camera setup, including a 48 MP main sensor, a 6.44 in (164 mm) Super AMOLED, 1080p display, up to 256 GB UFS 2.1 storage, 8 GB RAM, and a 4500 mAh battery capable of 33 W Vivo Fast Charge 2.0",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Vivo"      
+},
+{
+  "id": 68,
+  "title": "Vivo Y3",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKdZ-P-2CktjCcUBG_u3VFel6Vv4_8i9f_A&usqp=CAU",
+  "price": 19999,
+  "company": "Vivo",
+  "info":
+    "The Vivo Y3 was launched in May 2019. The Vivo Y3s phone served as an even more budget friendly variant, reducing prices by cutting out the Ultra-wide camera, and launched much later, on October 26, 2020.[1] The pricing for the Vivo Y3 was around €190 (¥1500),[2][3] and the Vivo Y3s launched with a price of €150 (¥1170)",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Vivo"      
+},
+{
+  "id": 69,
+  "title": "Vivo X60",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9ASFIEDSUGr1dcEpjI111rBf2HRbUDvY5Q&usqp=CAU",
+  "price": 26999,
+  "company": "Vivo",
+  "info":
+    "Vivo X60 is a line of Android-based smartphones developed and manufactured by Vivo, it featured the Zeiss co-engineered imaging system.",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Vivo"      
+},
+{
+  "id": 70,
+  "title": "Vivo X7",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtw9dNR2D-tgrCJ_MZUD_ap-rAZ8bxkq72_A&usqp=CAU",
+  "price": 18999,
+  "company": "Vivo",
+  "info":
+    "Vivo X7 is an Android smartphone developed by Vivo Communication Technology Co. The phone was initially released in June 2016. It has a 5.2 in (13 cm) display, a 3000 mAh battery, and 13 and 16 MP cameras",
+  "inCart": false,
+  "count": 0,
+  "total": 0,
+  "type": "Vivo"      
+}
+
+
+
+
+
+
+
+ 
+
+    
+    
+  ]
